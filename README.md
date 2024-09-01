@@ -28,3 +28,17 @@ This project automates the 'Beauty & Wellness' section of the Naaptol website us
 ### Step 1: Install Java Development Kit (JDK)
 * Download and Install JDK
 ### Step 2: Install an IDE
+* Install an IDE: Choose an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.
+### Step 3: Install Apache Maven
+* Download and Install Maven
+### Step 4: Set Up a Maven Project
+* Create a New Maven Project
+* Add Cucumber Dependencies: Open your pom.xml file and add the dependencies for Cucumber
+* Save and Update the Maven Project
+### Step 5: Configure Cucumber
+1. Create Feature Files:
+ * Create a directory src/test/resources/features/
+ * Add your feature files with .feature extension written in Gherkin syntax.
+2. Create Step Definitions
+ * Create a directory src/test/java/stepdefinitions/
+ * Create Java classes with methods annotated with @Giv
