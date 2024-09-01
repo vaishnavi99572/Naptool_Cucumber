@@ -14,3 +14,17 @@ This project automates the 'Beauty & Wellness' section of the Naaptol website us
 ## Operating System and Browser used
 * Chrome
 # Application Under Test
+[Naptool.com](https://www.naaptol.com/)
+# Scope
+## Features to be Tested
+* Apply filters
+* Add to cart
+* Search the product
+* Compare the product
+## Testing Types And Methodologies
+* Functional Testing
+* Integration Testing
+# Selenium Installation
+### Step 1: Install Java Development Kit (JDK)
+* Download and Install JDK
+### Step 2: Install an IDE
