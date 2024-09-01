@@ -47,7 +47,12 @@ This project automates the 'Beauty & Wellness' section of the Naaptol website us
  * Create a test runner class to execute Cucumber tests.
 ### Step 6: Running the Tests
 # Attachments
+![Screenshot (215)](https://github.com/user-attachments/assets/7bd4a798-4ffe-4441-bbe6-05d5a6a31b1d)
 ![Screenshot (218)](https://github.com/user-attachments/assets/7174c62f-dd9d-48ce-8d26-683dc831210d)
+# Recommendation & Suggestions
+* Improve UI of website
+# Feedback
+If you have any feedback, feel free to reach out at me vaishnavilakhore@gmail.com
 
 
 
